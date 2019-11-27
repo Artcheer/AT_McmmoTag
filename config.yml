@@ -1,0 +1,42 @@
+classes:
+  MINING:
+    tag: '&6[Minerador] '
+    playeratual: 'Jorginho'
+  WOODCUTTING:
+    tag: '&6[Lenhador] '
+    playeratual: ''
+  HERBALISM:
+    tag: '&6[Agricultor] '
+    playeratual: ''
+  EXCAVATION:
+    tag: '&6[Escavador] '
+    playeratual: ''
+  FISHING:
+    tag: '&6[Pescador] '
+    playeratual: ''
+  ARCHERY:
+    tag: '&6[Arqueiro] '
+    playeratual: ''
+  SWORDS:
+    tag: '&6[Soldado] '
+    playeratual: ''
+  AXES:
+    tag: '&6[Viking] '
+    playeratual: ''
+  TAMING:
+    tag: '&6[Domador] '
+    playeratual: ''
+  REPAIR:
+    tag: '&6[Ferreiro] '
+    playeratual: ''
+  ACROBATICS:
+    tag: '&6[Acrobata] '
+    playeratual: ''
+  SALVAGE:
+    tag: '&6[Selvagem? kkk] '
+    playeratual: ''
+  ALCHEMY:
+    tag: '&6[Bruxo] '
+    playeratual: ''
+message:
+  topalert: '&c O Jogador {player} se tornou o novo Líder da skill : {skill}, Parabéns!'
